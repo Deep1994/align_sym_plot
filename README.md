@@ -5,7 +5,7 @@ After we get the GIZA++ output file like xxx.A3.final (see my blog: [使用 GIZA
 
 # Symmetry
 
-```python
+```
 python align_sym.py a2b.A3.final b2a.A3.final > aligned.grow-diag-final-and
 ```
 
