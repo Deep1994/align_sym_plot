@@ -30,7 +30,7 @@ Get visualization picture for the first sentence pair
 """
 ```
 
-which may looks like:
+which may look like:
 
 ![img](./visualization.png)
 
