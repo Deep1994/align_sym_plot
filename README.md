@@ -36,4 +36,4 @@ which may looks like:
 
 # Reference
 
-[使用GIZA++进行词对齐](https://blog.csdn.net/guolindonggld/article/details/79626609)
+[使用GIZA++进行词对齐](https://blog.csdn.net/guolindonggld/article/details/79626609)ddd
