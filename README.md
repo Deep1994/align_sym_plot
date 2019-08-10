@@ -1,7 +1,7 @@
 # align_sym_plot
 Symmetry and visualization for GIZA ++ word alignment resluts. 
 
-After we get the GIZA++ output file like xxx.A3.final (see my blog: [使用 GIZA++ 进行词对齐]())，we can symmetrize and visualize them via following script.
+After we get the GIZA++ output file like xxx.A3.final (see my blog: [使用 GIZA++ 进行词对齐](http://deepon.me/2019/08/09/%E4%BD%BF%E7%94%A8GIZA-%E8%BF%9B%E8%A1%8C%E8%AF%8D%E5%AF%B9%E9%BD%90/))，we can symmetrize and visualize them via following script.
 
 # Symmetry
 
